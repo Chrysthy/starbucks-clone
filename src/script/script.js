@@ -10,11 +10,22 @@ const dados = [
 ];
 
 
-cups.forEach((cup, index) => {
+document.querySelectorAll('.menu-button').forEach((button, index) => {
 
-  cup.addEventListener('click', () => {
+    button.addEventListener('click', function (event) {
 
-    mainImage.src = dados[index].img;
-    circle.style.background = dados[index].cor;
-  });
+        event.preventDefault(); 
+
+        cups.forEach((cup, index) => {
+        
+          cup.addEventListener('click', () => {
+        
+            mainImage.src = dados[index].img;
+            circle.style.background = dados[index].cor;
+          });
+        });
+
+
+    });
 });
+
