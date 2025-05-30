@@ -59,7 +59,6 @@ button:hover {
     display: flex;
     justify-content: flex-end;
     margin-top: 50px;
-    /* reduzi de 250px para 50px */
 }
 
 .menu {
