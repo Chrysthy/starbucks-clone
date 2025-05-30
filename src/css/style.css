@@ -1,60 +1,43 @@
-html, body {
+html,
+body {
+    height: 100%;
     margin: 0;
     padding: 0;
-    width: 100%;
-    height: 100%;
     overflow-x: hidden;
-    font-family: 'Poppins', sans-serif;
 }
-
 
 body {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-    position: relative;
-    z-index: 0;
+    padding-top: 20px;
+    padding-right: 100px;
+    padding-left: 100px;
 }
 
-
-.logo {
-    width: 80px;
-    margin-top: 20px;
-    margin-left: 6vw; /* 🟢 novo: mesmo valor do padding da .content */
-}
-
-
-.content{
-   width: 100%; /* LARGURA */
+.content {
+    width: 100%;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 
 .texts {
-    max-width: 600px;
+    width: 600px;
 }
-
 
 h1 {
-    font-size: 60px;
-    font-weight: 700;
     color: #333;
+    font-size: 60px;
+    font-weight: bold;
 }
 
-h1 span {
+span {
     color: #017143;
     font-size: 70px;
     font-weight: 900;
 }
 
-
 p {
     font-size: 16px;
-    margin-top: 10px;
-    line-height: 1.5;
 }
-
 
 button {
     background: #017143;
@@ -62,42 +45,34 @@ button {
     border-radius: 40px;
     border: none;
     cursor: pointer;
-    padding: 12px 30px;
+    padding: 10px;
     margin-top: 20px;
-    transition: background-color 0.5s ease;
-    font-size: 16px;
+    transition: 0.5s;
 }
 
 button:hover {
     background-color: #018950;
 }
 
-
-.big-cup {
-    max-width: 600px;
+.big-imagem {
+    width: 600px;
     display: flex;
     justify-content: flex-end;
+    margin-top: 50px;
+    /* reduzi de 250px para 50px */
 }
-
-.image-cup {
-    max-width: 340px;
-    height: auto;
-    margin-top: 0;
-}
-
 
 .menu {
     display: flex;
     justify-content: center;
-    gap: 20px;
-    margin-top: 30px;
-    margin-bottom: 20px;
+    margin-top: 5px;
 }
 
 .menu-button {
-    width: 60px;
+    width: 100px;
     cursor: pointer;
     transition: transform 0.3s ease;
+    margin: 0 10px;
 }
 
 .menu-button:hover {
@@ -113,5 +88,12 @@ button:hover {
     left: 0;
     clip-path: circle(600px at right 800px);
     z-index: -1;
+}
 
+.logo {
+    width: 80px;
+}
+
+.imagem-copo {
+    width: 340px;
 }
