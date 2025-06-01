@@ -1,7 +1,7 @@
 <h1 align="center"> Starbucks Inspired Landing Page ☕</h1> 
 
 <p align="center">
-    A custom landing page inspired by the Starbucks aesthetic and branding. This project was developed as a personal challenge to practice modern layout structure, animations, and DOM interactions using only HTML, CSS, and JavaScript.</a>.
+    A custom landing page inspired by the Starbucks aesthetic and branding. This project was developed as a personal challenge to practice modern layout structure, animations, and DOM interactions using only HTML, CSS, and JavaScript.</a>
 </p>
 
 <p align="center">  
