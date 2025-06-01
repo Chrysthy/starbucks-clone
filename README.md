@@ -26,3 +26,12 @@
 <img src=".github/gif-do-projeto.gif" alt="gif do projeto">
 
 <br>
+
+## 🛠 Technologies
+
+* HTML 5
+* CSS 3
+* JavaScript
+* Git e GitHub
+
+<br>
