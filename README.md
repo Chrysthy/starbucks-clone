@@ -1,7 +1,7 @@
 <h1 align="center"> Starbucks Inspired Landing Page ☕</h1> 
 
 <p align="center">
-  A landing page project inspired by Starbucks, built with HTML, CSS, and JavaScript. This project focuses on layout practice, modern animations, DOM manipulation, and responsive design.</a>.
+    A custom landing page inspired by the Starbucks aesthetic and branding. This project was developed as a personal challenge to practice modern layout structure, animations, and DOM interactions using only HTML, CSS, and JavaScript.</a>.
 </p>
 
 <p align="center">  
@@ -29,9 +29,17 @@
 
 ## 🛠 Technologies
 
-* HTML 5
-* CSS 3
-* JavaScript
-* Git e GitHub
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+- Google Fonts (Poppins)  
+- Audio API  
+- DOM manipulation  
+
+<br>
+
+## 💻 Project
+
+- The project was created to practice HTML, CSS and JavaScript.
 
 <br>
