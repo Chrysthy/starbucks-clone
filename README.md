@@ -40,6 +40,14 @@
 
 ## 💻 Project
 
-- The project was created to practice HTML, CSS and JavaScript.
+This project simulates a Starbucks landing page with interactive elements. Clicking on each cup dynamically changes the main product image, background gradient, and theme color. 
+It also includes a fun bell button with sound interaction.
 
+The purpose was to practice:
+
+- Clean HTML and CSS structure
+- JavaScript interactivity
+- Media handling with JavaScript
+- Modern UI design inspired by real brands
+  
 <br>
