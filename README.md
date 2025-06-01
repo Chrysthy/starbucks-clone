@@ -51,3 +51,13 @@ The purpose was to practice:
 - Modern UI design inspired by real brands
   
 <br>
+
+## ✨ Features
+
+- ✅ Dynamic cup selection with image and color changes  
+- ✅ Audio playback when clicking the bell button  
+- ✅ Responsive layout for different screen sizes  
+- ✅ Stylish hover animations  
+- ✅ Simple and clean UI  
+
+<br>
