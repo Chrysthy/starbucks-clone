@@ -61,3 +61,10 @@ The purpose was to practice:
 - ✅ Simple and clean UI  
 
 <br>
+
+
+## 📜 License
+
+* This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+
+
