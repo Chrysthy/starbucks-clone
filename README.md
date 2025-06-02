@@ -53,11 +53,11 @@ The purpose was to practice:
 
 ## ✨ Features
 
-- ✅ Dynamic cup selection with image and color changes  
-- ✅ Audio playback when clicking the bell button  
-- ✅ Responsive layout for different screen sizes  
-- ✅ Stylish hover animations  
-- ✅ Simple and clean UI  
+✅ Dynamic cup selection with image and color changes  
+✅ Audio playback when clicking the bell button  
+✅ Responsive layout for different screen sizes  
+✅ Stylish hover animations  
+✅ Simple and clean UI  
 
 <br>
 
